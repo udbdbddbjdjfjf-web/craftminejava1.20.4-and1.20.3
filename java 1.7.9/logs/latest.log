@@ -1,0 +1,448 @@
+[12:55:40] [Client thread/ERROR]: Can't find the resource index file: assets\indexes\1.8.9.json
+[12:55:40] [Client thread/INFO]: Setting user: StevePlayer
+[12:55:40] [Client thread/INFO]: (Session ID is token:0:00000000-0000-0000-0000-000000000000)
+[12:55:45] [Client thread/INFO]: LWJGL Version: 2.9.3
+[12:55:48] [Client thread/INFO]: Reloading ResourceManager: Default, Senpa1 [1.14] §b§lTexture Pack §r§b (Netherite).zip
+[12:55:48] [Client thread/ERROR]: Couldn't initialize twitch stream
+[12:55:48] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:55:48] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[12:55:48] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:55:49] [Thread-6/INFO]: OpenAL initialized.
+[12:55:49] [Sound Library Loader/INFO]: Sound engine started
+[12:55:53] [Client thread/INFO]: Created: 512x512 textures-atlas
+[12:55:55] [Client thread/ERROR]: Realms module missing
+java.lang.ClassNotFoundException: com.mojang.realmsclient.gui.screens.RealmsNotificationsScreen
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_503]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_503]
+	at net.minecraft.realms.RealmsBridge.getNotificationScreen(SourceFile:32) [2.jar:?]
+	at aya.b(SourceFile:202) [2.jar:?]
+	at axu.a(SourceFile:376) [2.jar:?]
+	at ave.a(SourceFile:819) [2.jar:?]
+	at ave.am(SourceFile:476) [2.jar:?]
+	at ave.a(SourceFile:310) [2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [2.jar:?]
+[12:55:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[12:56:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[12:56:01] [Client thread/ERROR]: Realms module missing
+java.lang.ClassNotFoundException: com.mojang.realmsclient.gui.screens.RealmsNotificationsScreen
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_503]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_503]
+	at net.minecraft.realms.RealmsBridge.getNotificationScreen(SourceFile:32) [2.jar:?]
+	at aya.b(SourceFile:202) [2.jar:?]
+	at axu.a(SourceFile:376) [2.jar:?]
+	at ave.a(SourceFile:819) [2.jar:?]
+	at axv.i(SourceFile:156) [2.jar:?]
+	at axv.a(SourceFile:135) [2.jar:?]
+	at axu.a(SourceFile:350) [2.jar:?]
+	at axu.k(SourceFile:413) [2.jar:?]
+	at axv.k(SourceFile:81) [2.jar:?]
+	at axu.p(SourceFile:390) [2.jar:?]
+	at ave.s(SourceFile:1498) [2.jar:?]
+	at ave.av(SourceFile:889) [2.jar:?]
+	at ave.a(SourceFile:325) [2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [2.jar:?]
+[12:56:02] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[12:56:02] [Server thread/INFO]: Generating keypair
+[12:56:03] [Server thread/INFO]: Preparing start region for level 0
+[12:56:04] [Server thread/INFO]: Preparing spawn area: 31%
+[12:56:05] [Server thread/INFO]: Preparing spawn area: 91%
+[12:56:05] [Server thread/INFO]: Changing view distance to 2, from 10
+[12:56:05] [Client thread/ERROR]: Realms module missing
+java.lang.ClassNotFoundException: com.mojang.realmsclient.gui.screens.RealmsNotificationsScreen
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_503]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_503]
+	at net.minecraft.realms.RealmsBridge.getNotificationScreen(SourceFile:32) [2.jar:?]
+	at aya.b(SourceFile:202) [2.jar:?]
+	at axu.a(SourceFile:376) [2.jar:?]
+	at ave.a(SourceFile:819) [2.jar:?]
+	at ave.a(SourceFile:1940) [2.jar:?]
+	at axv.i(SourceFile:172) [2.jar:?]
+	at axv.a(SourceFile:135) [2.jar:?]
+	at axu.a(SourceFile:350) [2.jar:?]
+	at axu.k(SourceFile:413) [2.jar:?]
+	at axv.k(SourceFile:81) [2.jar:?]
+	at axu.p(SourceFile:390) [2.jar:?]
+	at ave.s(SourceFile:1498) [2.jar:?]
+	at ave.av(SourceFile:889) [2.jar:?]
+	at ave.a(SourceFile:325) [2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [2.jar:?]
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.20 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.65 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.331 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.276 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.23 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.330 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.154 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.355 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.137 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.356 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.279 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.54 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.12 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.143 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.146 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.145 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.123 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.50 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.324 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.148 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.mineBlock.143 is
+[12:56:06] [Server thread/WARN]: Invalid statistic in .\saves\bro take a look\stats\00000000-0000-0000-0000-000000000000.json: Don't know what stat.useItem.57 is
+[12:56:06] [Server thread/INFO]: StevePlayer[local:E:3c01bdc1] logged in with entity id 69 at (-5.487500011920926, 64.0, 231.20138115041965)
+[12:56:06] [Server thread/INFO]: StevePlayer joined the game
+[12:56:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game.creative
+[12:56:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[12:56:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3295ms behind, skipping 65 tick(s)
+[12:56:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[12:56:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:56:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:56:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[12:56:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[12:56:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:56:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:56:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:56:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:56:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:56:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:56:26] [Server thread/INFO]: Saving and pausing game...
+[12:56:26] [Server thread/INFO]: Saving chunks for level 'bro take a look'/Overworld
+[12:56:26] [Server thread/INFO]: Saving chunks for level 'bro take a look'/Nether
+[12:56:26] [Server thread/INFO]: Saving chunks for level 'bro take a look'/The End
+[12:56:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[12:56:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.ladder
+[12:56:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.ladder
+[12:56:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.ladder
+[12:56:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:56:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:56:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:56:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:56:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:56:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:56:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.chestopen
+[12:56:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.chestclosed
+[12:56:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:56:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:56:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:56:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:56:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:56:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:56:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.ladder
+[12:56:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.ladder
+[12:56:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:56:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:56:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:56:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:56:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:56:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:56:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:56:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:56:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:56:55] [Client thread/INFO]: [CHAT] There is no such item with name minecraft:12
+[12:57:03] [Client thread/INFO]: [CHAT] There is no such item with name minecraft:debug_stick
+[12:57:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:57:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:57:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:57:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:57:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:57:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:57:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:57:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:57:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:57:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:57:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:57:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:57:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:57:15] [Server thread/INFO]: Saving and pausing game...
+[12:57:15] [Server thread/INFO]: Saving chunks for level 'bro take a look'/Overworld
+[12:57:15] [Server thread/INFO]: Saving chunks for level 'bro take a look'/Nether
+[12:57:15] [Server thread/INFO]: Saving chunks for level 'bro take a look'/The End
+[12:58:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[12:58:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[12:58:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[12:58:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[12:58:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:58:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:58:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:58:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:58:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:58:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:58:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:58:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.stone
+[12:58:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:58:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:58:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:58:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:58:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.stone
+[12:58:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.stone
+[12:58:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.stone
+[12:58:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.stone
+[12:58:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:58:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:58:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:58:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:58:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:58:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:58:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:58:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:58:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:58:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:58:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:58:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:58:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:59:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.wood
+[12:59:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.wood
+[12:59:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:59:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.wood
+[12:59:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.wood
+[12:59:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.wood
+[12:59:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.wood
+[12:59:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:59:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:59:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:59:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:59:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:59:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.stone
+[12:59:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.wood
+[12:59:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.stone
+[12:59:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.wood
+[12:59:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:59:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.wood
+[12:59:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.wood
+[12:59:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game.creative
+[12:59:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:59:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:59:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:59:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:59:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:59:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:59:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[12:59:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:59:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[12:59:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[12:59:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:59:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.ladder
+[12:59:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.ladder
+[12:59:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:59:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:59:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:59:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:59:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:59:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:59:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:59:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[12:59:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:59:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:59:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:59:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:59:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:59:58] [Server thread/INFO]: [@: Cleared the inventory of StevePlayer, removing 3 items]
+[12:59:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[12:59:58] [Client thread/INFO]: [CHAT] [@: Cleared the inventory of StevePlayer, removing 3 items]
+[12:59:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[12:59:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[13:00:00] [Server thread/INFO]: [@: Teleported StevePlayer to -4.5, 64.0, 233.5]
+[13:00:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[13:00:00] [Client thread/INFO]: [CHAT] [@: Teleported StevePlayer to -4.5, 64.0, 233.5]
+[13:00:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[13:00:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[13:00:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[13:00:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim.splash
+[13:00:43] [Server thread/INFO]: Saving and pausing game...
+[13:00:43] [Server thread/INFO]: Saving chunks for level 'bro take a look'/Overworld
+[13:00:43] [Server thread/INFO]: Saving chunks for level 'bro take a look'/Nether
+[13:00:43] [Server thread/INFO]: Saving chunks for level 'bro take a look'/The End
+[13:01:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[13:01:32] [Server thread/INFO]: Stopping server
+[13:01:32] [Server thread/INFO]: Saving players
+[13:01:32] [Server thread/INFO]: Saving worlds
+[13:01:32] [Server thread/INFO]: Saving chunks for level 'bro take a look'/Overworld
+[13:01:32] [Client thread/ERROR]: Realms module missing
+java.lang.ClassNotFoundException: com.mojang.realmsclient.gui.screens.RealmsNotificationsScreen
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_503]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_503]
+	at net.minecraft.realms.RealmsBridge.getNotificationScreen(SourceFile:32) [2.jar:?]
+	at aya.b(SourceFile:202) [2.jar:?]
+	at axu.a(SourceFile:376) [2.jar:?]
+	at ave.a(SourceFile:819) [2.jar:?]
+	at axp.a(SourceFile:52) [2.jar:?]
+	at axu.a(SourceFile:350) [2.jar:?]
+	at axu.k(SourceFile:413) [2.jar:?]
+	at axu.p(SourceFile:390) [2.jar:?]
+	at ave.s(SourceFile:1498) [2.jar:?]
+	at ave.av(SourceFile:889) [2.jar:?]
+	at ave.a(SourceFile:325) [2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [2.jar:?]
+[13:01:32] [Server thread/INFO]: Saving chunks for level 'bro take a look'/Nether
+[13:01:32] [Server thread/INFO]: Saving chunks for level 'bro take a look'/The End
+[13:01:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[13:01:34] [Client thread/ERROR]: Realms module missing
+java.lang.ClassNotFoundException: com.mojang.realmsclient.RealmsMainScreen
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_503]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_503]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_503]
+	at net.minecraft.realms.RealmsBridge.switchToRealms(SourceFile:19) [2.jar:?]
+	at aya.f(SourceFile:264) [2.jar:?]
+	at aya.a(SourceFile:244) [2.jar:?]
+	at axu.a(SourceFile:350) [2.jar:?]
+	at aya.a(SourceFile:495) [2.jar:?]
+	at axu.k(SourceFile:413) [2.jar:?]
+	at axu.p(SourceFile:390) [2.jar:?]
+	at ave.s(SourceFile:1498) [2.jar:?]
+	at ave.av(SourceFile:889) [2.jar:?]
+	at ave.a(SourceFile:325) [2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [2.jar:?]
+[13:01:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[13:01:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[13:01:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[13:01:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[13:01:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[13:01:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[13:01:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[13:02:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[13:02:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[13:02:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[13:02:05] [Client thread/INFO]: Stopping!
+[13:02:05] [Client thread/INFO]: SoundSystem shutting down...
+[13:02:06] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

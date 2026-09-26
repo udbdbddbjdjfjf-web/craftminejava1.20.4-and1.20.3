@@ -1,0 +1,3 @@
+@echo off
+java -Xmx2G -Xms2G -Djava.library.path=bin/natives/ -cp bin/lwjgl.jar;bin/lwjgl_util.jar;bin/jopt-simple-4.5.jar;bin/commons-lang3-3.3.2.jar;bin/guava-17.0.jar;bin/gson-2.2.4.jar;bin/log4j-api-2.0-beta9.jar;bin/log4j-core-2.0-beta9.jar;bin/netty-all-4.0.23.Final.jar;bin/commons-io-2.4.jar;bin/authlib-1.5.21.jar;bin/trove4j-3.0.3.jar;bin/soundsystem-20120107.jar;bin/codecibxm-20120107.jar;bin/codecwav-20120107.jar;bin/librarylwjglopenal-20100824.jar;bin/codecjorbis-20101023.jar;bin/icu4j.jar;2.jar net.minecraft.client.main.Main --username StevePlayer --version 1.8.9 --gameDir . --assetsDir assets --assetIndex 1.8.9 --uuid 00000000-0000-0000-0000-000000000000 --accessToken 0 --userProperties {} --userType mojang
+pause
